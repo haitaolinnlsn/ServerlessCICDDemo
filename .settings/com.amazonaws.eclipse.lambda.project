@@ -1,0 +1,7 @@
+#Lambda Function Project Metadata
+#Wed Mar 01 21:37:40 CST 2017
+lastInvokeShowLiveLog=false
+lastDeploymentFunctionName=MediaWorksJavaLambdaTest
+lastDeploymentBucketName=mediaworks-lambdajavacode
+lastDeploymentEndpoint=https\://lambda.us-east-1.amazonaws.com/
+lastInvokeInput={\n\t"clickType" \: "SINGLE"\n} 
